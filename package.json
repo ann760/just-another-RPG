@@ -1,0 +1,22 @@
+{
+  "name": "just-another-rpg",
+  "version": "1.0.0",
+  "description": "a role playing game",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ann760/just-another-RPG.git"
+  },
+  "author": "Ann-Marie Orozco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ann760/just-another-RPG/issues"
+  },
+  "homepage": "https://github.com/ann760/just-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
